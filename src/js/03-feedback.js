@@ -32,3 +32,4 @@ function onSaveDataInput() {
     message.value = saveData.message;
   }
 }
+console.log('Hello')
